@@ -1,0 +1,12 @@
+flask
+python-dotenv
+google-generativeai
+langchain
+langchain-google-genai
+crewai
+# RAG dependencies
+langchain-community
+chromadb
+pypdf
+langchain-text-splitters
+flask-cors
